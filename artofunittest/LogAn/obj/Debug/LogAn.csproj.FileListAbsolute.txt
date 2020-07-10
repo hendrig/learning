@@ -1,6 +1,5 @@
 C:\work\Sandbox\learning\artofunittest\LogAn\bin\Debug\LogAn.dll
 C:\work\Sandbox\learning\artofunittest\LogAn\bin\Debug\LogAn.pdb
-C:\work\Sandbox\learning\artofunittest\LogAn\obj\Debug\LogAn.csprojAssemblyReference.cache
 C:\work\Sandbox\learning\artofunittest\LogAn\obj\Debug\LogAn.csproj.CoreCompileInputs.cache
 C:\work\Sandbox\learning\artofunittest\LogAn\obj\Debug\LogAn.dll
 C:\work\Sandbox\learning\artofunittest\LogAn\obj\Debug\LogAn.pdb

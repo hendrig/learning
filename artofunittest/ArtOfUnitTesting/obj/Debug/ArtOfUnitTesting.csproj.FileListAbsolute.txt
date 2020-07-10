@@ -1,0 +1,7 @@
+C:\work\Sandbox\learning\artofunittest\ArtOfUnitTesting\bin\Debug\ArtOfUnitTesting.exe.config
+C:\work\Sandbox\learning\artofunittest\ArtOfUnitTesting\bin\Debug\ArtOfUnitTesting.exe
+C:\work\Sandbox\learning\artofunittest\ArtOfUnitTesting\bin\Debug\ArtOfUnitTesting.pdb
+C:\work\Sandbox\learning\artofunittest\ArtOfUnitTesting\obj\Debug\ArtOfUnitTesting.csprojAssemblyReference.cache
+C:\work\Sandbox\learning\artofunittest\ArtOfUnitTesting\obj\Debug\ArtOfUnitTesting.csproj.CoreCompileInputs.cache
+C:\work\Sandbox\learning\artofunittest\ArtOfUnitTesting\obj\Debug\ArtOfUnitTesting.exe
+C:\work\Sandbox\learning\artofunittest\ArtOfUnitTesting\obj\Debug\ArtOfUnitTesting.pdb
