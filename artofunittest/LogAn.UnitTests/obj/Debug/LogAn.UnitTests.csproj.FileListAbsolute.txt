@@ -1,0 +1,13 @@
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\bin\Debug\LogAn.UnitTests.exe.config
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\bin\Debug\LogAn.UnitTests.exe
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\bin\Debug\LogAn.UnitTests.pdb
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\bin\Debug\LogAn.dll
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\bin\Debug\nunit.framework.dll
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\bin\Debug\LogAn.pdb
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\bin\Debug\nunit.framework.pdb
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\bin\Debug\nunit.framework.xml
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.csprojAssemblyReference.cache
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.csproj.CoreCompileInputs.cache
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.csproj.CopyComplete
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.exe
+C:\work\Sandbox\learning\artofunittest\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.pdb
